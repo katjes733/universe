@@ -1,0 +1,264 @@
+Mesh objects:  Total vertices:6184    Total faces:10233
+
+PANELARM	 
+  Vertices:16    Faces:16
+  Materials:
+		PANELARMS mediu
+  Smoothing:
+		 25
+ESCAPEMO	 
+  Vertices:87    Faces:129
+  Materials:
+		ESCAPEMOD light
+  Smoothing:
+		 26
+AIRLOCKS	 
+  Vertices:264    Faces:264
+  Materials:
+		AIRLOCKS light 
+  Smoothing:
+		 27
+STORAGE	 
+  Vertices:440    Faces:440
+  Materials:
+		STORAGE light m
+  Smoothing:
+		 28
+FUELTANK	 
+  Vertices:64    Faces:64
+  Materials:
+		FUELTANKS mediu
+  Smoothing:
+		 29
+SECTIONC	 
+  Vertices:251    Faces:304
+  Materials:
+		SECTIONCONNECT 
+  Smoothing:
+		 30
+AIRLOCK	 
+  Vertices:36    Faces:58
+  Materials:
+		AIRLOCK grayish
+  Smoothing:
+		 31
+CREW CON	 
+  Vertices:24    Faces:24
+  Materials:
+		CREW CONNECT li
+  Smoothing:
+		 32
+HYDRORAD	 
+  Vertices:120    Faces:236
+  Materials:
+		HYDRORADIATOR m
+  Smoothing:
+		 17
+HYDROCON	 
+  Vertices:24    Faces:24
+  Materials:
+		HYDROCONNECTOR 
+
+
+                                     Page 1
+
+
+
+  Smoothing:
+		 18
+EMERGTAN	 
+  Vertices:248    Faces:480
+  Materials:
+		EMERGTANKS ligh
+  Smoothing:
+		 19
+AIRTANKC	 
+  Vertices:192    Faces:192
+  Materials:
+		AIRTANKCONNECTO
+  Smoothing:
+		 20
+AIRTANKS	 
+  Vertices:744    Faces:1440
+  Materials:
+		AIRTANKS light 
+  Smoothing:
+		 21
+AIRLOCKC	 
+  Vertices:96    Faces:96
+  Materials:
+		AIRLOCKCONNECT 
+  Smoothing:
+		 22
+RING SPO	 
+  Vertices:128    Faces:128
+  Materials:
+		RING SPOKES gra
+  Smoothing:
+		 23
+SOLAR PA	 
+  Vertices:68    Faces:114
+  Materials:
+		SOLAR PANEL 2 v
+  Smoothing:
+		 24
+SOLARPAN	 
+  Vertices:68    Faces:114
+  Materials:
+		SOLARPANEL1 ver
+  Smoothing:
+		 9
+EMERGSOL	 
+  Vertices:72    Faces:136
+  Materials:
+		EMERGSOLARPANEL
+  Smoothing:
+		 10
+MIDDLE_R	 
+  Vertices:352    Faces:684
+  Materials:
+		MIDDLE_RING lig
+  Smoothing:
+		 11
+OUTER_RI	 
+  Vertices:576    Faces:1152
+  Materials:
+		OUTER_RING ligh
+
+
+                                     Page 2
+
+
+
+  Smoothing:
+		 12
+INNER_RI	 
+  Vertices:216    Faces:432
+  Materials:
+		INNER_RING medi
+  Smoothing:
+		 13
+HYDROPON	 
+  Vertices:158    Faces:310
+  Materials:
+		HYDROPONICS med
+  Smoothing:
+		 14
+FUELSTOR	 
+  Vertices:192    Faces:346
+  Materials:
+		FUELSTORAGE med
+  Smoothing:
+		 15
+CREW TRA	 
+  Vertices:48    Faces:48
+  Materials:
+		CREW TRANSFER m
+  Smoothing:
+		 16
+LIFE SUP	 
+  Vertices:144    Faces:262
+  Materials:
+		LIFE SUPPORT gr
+  Smoothing:
+		 1
+CENTERMO	 
+  Vertices:456    Faces:904
+  Materials:
+		CENTERMODULE li
+  Smoothing:
+		 2
+SECONDAR	 
+  Vertices:48    Faces:92
+  Materials:
+		SECONDARY_RADI 
+  Smoothing:
+		 3
+RADIAT1	 
+  Vertices:72    Faces:140
+  Materials:
+		RADIATORBAND me
+  Smoothing:
+		 4
+RADIATOR	 
+  Vertices:48    Faces:92
+  Materials:
+		RADIATOR medium
+  Smoothing:
+		 5
+SCIENCEM	 
+  Vertices:240    Faces:432
+  Materials:
+		SCIENCEMODULE l
+
+
+                                     Page 3
+
+
+
+  Smoothing:
+		 6
+LOWER BI	 
+  Vertices:120    Faces:128
+  Materials:
+		LOWER BIND RING
+  Smoothing:
+		 7
+BINDING 	 
+  Vertices:252    Faces:406
+  Materials:
+		BINDING RING me
+  Smoothing:
+		 8
+CREW_MOD	 
+  Vertices:192    Faces:330
+  Materials:
+		CREW_MODULE med
+DOCKINGH	 
+  Vertices:32    Faces:50
+  Materials:
+		DOCKINGHATCH gr
+TOPSKIRT	 
+  Vertices:96    Faces:166
+  Materials:
+		TOPSKIRT medium
+STEVE'S 	 
+  Vertices:0    Faces:0
+
+Lights:
+
+Light01	
+Light02	
+
+Cameras:
+
+Camera01	(50.00mm)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     Page 4
+
+
+
